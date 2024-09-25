@@ -19,4 +19,4 @@
 
 ### Project Preview
 
-![BR Architects](images/galary1.jpg)
+https://ebrahim43.github.io/BR-Architects/
